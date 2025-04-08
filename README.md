@@ -7,7 +7,7 @@ A Python SDK for Simplified Video API Integration
 ## Features ✨
 - Search videos with flexible queries
 - Retrieve detailed video metadata
-- Easy-to-use client interface
+- Easy to use
 - Pagination support for bulk operations
 
 ---
