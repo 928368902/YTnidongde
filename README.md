@@ -17,7 +17,7 @@
   ```
 之后我们可以这样
 ```shell
-result = search_client.search_videos(query: 学生 '''str''',max_pages: 2  '''int''')
+result = search_client.search_videos(query: "学生" '''str''',max_pages: 2  '''int''')
 result = view_client.get_video_detail("48777"'''str''')
   ```
 
