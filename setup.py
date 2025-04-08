@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=["requests"],
     author="天球生物",
-    author_email="xunaatwm@gmail.com",
+    author_email="xuanatwm@gmail.com",
     description="Video search API package",
     url="https://github.com/yourname/repo-name",
 )
