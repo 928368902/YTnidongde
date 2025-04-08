@@ -1,6 +1,6 @@
 # YTnidongde
 ## 阴天分支项目，好看的视频API
--使用方法
+使用方法
  ```shell
   pip install YTnidongde
   ```
