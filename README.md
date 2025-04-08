@@ -70,9 +70,4 @@ video_detail = view_client.get_video_detail("48777")  # Example video ID
 ---
 
 
-## License 📄
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 > **Note:** This is an unofficial SDK. Use according to platform API guidelines.
