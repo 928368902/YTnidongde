@@ -8,5 +8,5 @@ setup(
     author="天球生物",
     author_email="xuanatwm@gmail.com",
     description="Video search API package",
-    url="https://github.com/yourname/repo-name",
+    url="https://github.com/928368902/YTnidongde",
 )
